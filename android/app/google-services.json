@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "854723632123",
+    "firebase_url": "https://silvernest-apartments-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "silvernest-apartments",
+    "storage_bucket": "silvernest-apartments.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854723632123:android:ac7aa8146517346b0d895e",
+        "android_client_info": {
+          "package_name": "com.example.silve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4dA3W1m1sS2uoTV_nChARJXHK6l1m6rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854723632123:android:ffa18db14e5bb2330d895e",
+        "android_client_info": {
+          "package_name": "com.silvernest.apartments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4dA3W1m1sS2uoTV_nChARJXHK6l1m6rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854723632123:android:9f99e98c21d13ae90d895e",
+        "android_client_info": {
+          "package_name": "com.yourdomain.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4dA3W1m1sS2uoTV_nChARJXHK6l1m6rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
